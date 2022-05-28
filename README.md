@@ -11,10 +11,11 @@
 	<a href="#tecnologias-utilizadas">Tecnologias-utilizadas</a> •
 </p>
 
+![genius](https://user-images.githubusercontent.com/100203503/170828074-cf89caba-8d49-4c5d-b621-4b0cb425388a.PNG)
 
 
 <p align="right">
-        View: 
+        View: https://amandaailin.github.io/GeniusMemory/
 </p>
 
 ## Descrição do Projeto:
